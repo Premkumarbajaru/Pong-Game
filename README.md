@@ -19,7 +19,11 @@ This project is a simple implementation of the classic Pong game using Python. T
 To run this project, you need to have the following Python libraries installed:
 
 ```bash
-pip install mediapipe numpy opencv-python cvzone tkinter
+mediapipe
+numpy
+opencv-python
+cvzone
+tkinter
 ```
 
 ## Project Structure
